@@ -1,0 +1,29 @@
+html {
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 90%;
+  display: grid;
+  zoom: 135%;
+}
+
+.container {
+  margin: auto;
+}
+
+@font-face {
+  font-family: 'BurbankBigCDB';
+  src: url('BurbankBigCondensed-Black.otf');
+}
+
+.headings {
+  color: #6441A4;
+  font-family: BurbankBigCDB;
+}
+
+#searchbar {
+  margin: auto;
+  width: auto;
+  max-width: 600px;
+}
