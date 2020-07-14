@@ -23,7 +23,7 @@ body, html {
 }
 
 #searchbar {
-  margin: auto;
-  width: auto;
-  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
 }
