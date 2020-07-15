@@ -17,7 +17,7 @@ body, html {
   src: url('BurbankBigCondensed-Black.otf');
 }
 
-.headings {
+.text {
   color: #6441A4;
   font-family: BurbankBigCDB;
 }
